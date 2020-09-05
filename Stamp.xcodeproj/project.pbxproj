@@ -15,6 +15,7 @@
 		BD87B8F82503622C0003AD18 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD87B8F62503622C0003AD18 /* LaunchScreen.storyboard */; };
 		BD87B9032503622D0003AD18 /* StampTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD87B9022503622D0003AD18 /* StampTests.swift */; };
 		BD87B90E2503622D0003AD18 /* StampUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD87B90D2503622D0003AD18 /* StampUITests.swift */; };
+		BD87B91E250365F40003AD18 /* Stamp素材 in Resources */ = {isa = PBXBuildFile; fileRef = BD87B91D250365F40003AD18 /* Stamp素材 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BD87B9092503622D0003AD18 /* StampUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StampUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD87B90D2503622D0003AD18 /* StampUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StampUITests.swift; sourceTree = "<group>"; };
 		BD87B90F2503622D0003AD18 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD87B91D250365F40003AD18 /* Stamp素材 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Stamp素材"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				BD87B8EF2503622B0003AD18 /* ViewController.swift */,
 				BD87B8F12503622B0003AD18 /* Main.storyboard */,
 				BD87B8F42503622C0003AD18 /* Assets.xcassets */,
+				BD87B91D250365F40003AD18 /* Stamp素材 */,
 				BD87B8F62503622C0003AD18 /* LaunchScreen.storyboard */,
 				BD87B8F92503622C0003AD18 /* Info.plist */,
 			);
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD87B91E250365F40003AD18 /* Stamp素材 in Resources */,
 				BD87B8F82503622C0003AD18 /* LaunchScreen.storyboard in Resources */,
 				BD87B8F52503622C0003AD18 /* Assets.xcassets in Resources */,
 				BD87B8F32503622B0003AD18 /* Main.storyboard in Resources */,
